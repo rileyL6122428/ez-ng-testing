@@ -1,0 +1,15 @@
+{
+  "name": "ez-ng-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/core": "^7.0.4",
+    "@angular/platform-browser": "^7.0.4"
+  }
+}
